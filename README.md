@@ -27,6 +27,7 @@
 <a href="https://instagram.com/PocketJack1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abolfazljzk" height="30" width="40" /></a>
 <a href="https://youtube.com/@PocketJack1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="PocketJack1" height="30" width="40" /></a>
 <a href="https://medium.com/@rezaxkhaleghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rezaxkhaleghi" height="30" width="40" /></a>
+  <a href="https://soundcloud.com/pocketjack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="PocketJack" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -117,6 +118,10 @@
     <img src="https://skillicons.dev/icons?i=jest" alt="Jest" />
   </a>
   
+<a href="https://core.telegram.org/bots" target="_blank" rel="noreferrer">
+  <img src="https://telegram.org/img/t_logo.svg" alt="Telegram Bots" height="48" width="48" />
+</a>
+  
   <!-- Blockchain & Web3 -->
   <a href="https://bitcoin.org/" target="_blank" rel="noreferrer">
     <img src="https://bitcoin.org/img/icons/opengraph.png" alt="Bitcoin Core" height="48" width="48" />
@@ -128,5 +133,7 @@
   </a>
 
 </p>
+
+
 
 
