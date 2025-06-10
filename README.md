@@ -112,6 +112,14 @@
   <a href="https://postman.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
   </a>
+
+<a href="https://swagger.io/" target="_blank" rel="noreferrer">
+  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="Swagger" height="48" width="48" />
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+</a>
   
   <!-- Testing & ORMs -->
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
