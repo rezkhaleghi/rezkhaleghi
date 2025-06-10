@@ -10,7 +10,16 @@
 
 24y.o Software engineer and musician who's been exploring tech for 10+ years before finding my groove with TypeScript and Rust. Started my journey on 2012 bouncing between frontend, networking, and security until I discovered my passion for backend development and system programming 5 years ago. When I'm not crafting APIs, building tools, or diving into blockchain projects, you'll find me making music or contributing to open source communities. Love building cool stuff, solving interesting problems, and always up for collaborating on fun technical challenges.
 
-- 📫 How to reach me **rezaxkhaleghi@gmail.com**
+- 📧 **rezaxkhaleghi@gmail.com** - 🌐 **https://pocketjack.vercel.app**
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rezkhaleghi&theme=radical&hide_border=true" alt="GitHub Streak" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezkhaleghi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /></td>
+    </tr>
+  </table>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -112,4 +121,12 @@
   <a href="https://bitcoin.org/" target="_blank" rel="noreferrer">
     <img src="https://bitcoin.org/img/icons/opengraph.png" alt="Bitcoin Core" height="48" width="48" />
   </a>
+<a href="https://stellar.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/stellar/.github/master/stellar-logo.png" alt="Stellar SDK" height="48" width="48" />  </a>
+  <a href="https://tron.network/" target="_blank" rel="noreferrer">
+    <img src="https://coin-images.coingecko.com/coins/images/1094/large/tron-logo.png" alt="Tron Network" height="48" width="48" />
+  </a>
+
 </p>
+
+
