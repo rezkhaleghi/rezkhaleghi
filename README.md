@@ -15,16 +15,16 @@
 <a href="https://linkedin.com/in/rezaxkhaleghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abolfazl-jazak-208330292" height="30" width="40" /></a>
 <a href="https://instagram.com/PocketJack1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abolfazljzk" height="30" width="40" /></a>
 </p>
+//todo: add youtube, medium
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
+//todo: add these skills too: 
+// "Rust", "WASM", "JavaScript", "TypeScript", "Nest.Js", "SpringBoot", "Git", "Docker",
+        //"Redis", "ZeroMQ", "Socketio", "Mongo DB", "Postgres", "TypeORM", "Linux", "GraphQL",
+        //"REST-APIs", "BlockChain", "Web3", "Test", "HTML","Microservices",
+        // "Nats","S3(MinIo)","KeystoneJs","ExpressJs","RabbitMQ","Actix-Web","Yew","Teloxide","crossterm",
   <!-- Skillicons -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=django" alt="Django" />
-  </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />
   </a>
@@ -48,9 +48,6 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
