@@ -71,9 +71,6 @@
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" />
   </a>
-  <a href="https://nats.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/nats-io/nats-general/main/images/large-logo.png" alt="NATS" height="48" width="48" />
-  </a>
   <a href="https://zeromq.org/" target="_blank" rel="noreferrer">
     <img src="https://zeromq.org/images/logo.gif" alt="ZeroMQ" height="48" width="48" />
   </a>
@@ -106,9 +103,6 @@
   <!-- Testing & ORMs -->
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=jest" alt="Jest" />
-  </a>
-  <a href="https://typeorm.io/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" alt="TypeORM" height="48" width="48" />
   </a>
   
 </p>
