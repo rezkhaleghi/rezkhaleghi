@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/rezaxkhaleghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abolfazl-jazak-208330292" height="30" width="40" /></a>
 <a href="https://instagram.com/PocketJack1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abolfazljzk" height="30" width="40" /></a>
 <a href="https://youtube.com/@PocketJack1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="PocketJack1" height="30" width="40" /></a>
-<a href="https://medium.com/@rezaxkhaleghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rezaxkhaleghi" height="30" width="40" /></a>
+<a href="https://medium.com/@pocketjack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rezaxkhaleghi" height="30" width="40" /></a>
   <a href="https://soundcloud.com/pocketjack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="PocketJack" height="30" width="40" /></a>
 </p>
 
