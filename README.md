@@ -71,9 +71,6 @@
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" />
   </a>
-  <a href="https://nats.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/nats-io/nats-general/main/images/large-logo.png" alt="NATS" height="48" width="48" />
-  </a>
   <a href="https://zeromq.org/" target="_blank" rel="noreferrer">
     <img src="https://zeromq.org/images/logo.gif" alt="ZeroMQ" height="48" width="48" />
   </a>
@@ -114,8 +111,5 @@
   <!-- Blockchain & Web3 -->
   <a href="https://bitcoin.org/" target="_blank" rel="noreferrer">
     <img src="https://bitcoin.org/img/icons/opengraph.png" alt="Bitcoin Core" height="48" width="48" />
-  </a>
-  <a href="https://ethereum.org/" target="_blank" rel="noreferrer">
-    <img src="https://ethereum.org/static/6b935ac0e6194247347855dc3d328e83/6ed5f/eth-diamond-black.png" alt="Blockchain" height="48" width="48" />
   </a>
 </p>
