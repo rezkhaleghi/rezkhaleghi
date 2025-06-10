@@ -99,9 +99,6 @@
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
-  </a>
   <a href="https://postman.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
   </a>
@@ -113,12 +110,5 @@
   <a href="https://typeorm.io/" target="_blank" rel="noreferrer">
     <img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" alt="TypeORM" height="48" width="48" />
   </a>
-  <a href="https://keystonejs.com/" target="_blank" rel="noreferrer">
-    <img src="https://keystonejs.com/assets/logo.svg" alt="KeystoneJS" height="48" width="48" />
-  </a>
   
-  <!-- Blockchain & Web3 -->
-  <a href="https://web3js.readthedocs.io/" target="_blank" rel="noreferrer">
-    <img src="https://docs.web3js.org/img/web3js.svg" alt="Web3" height="48" width="48" />
-  </a>
 </p>
