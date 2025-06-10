@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+This+is+PocketJack;Welcome+to+my+GitHub!&center=true&width=500&height=50" />
   </a>
 </p>
-
 <h3 align="center">Software Engineer🦀 / Musician🎵</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezkhaleghi&label=Profile%20views&color=0e75b6&style=flat" alt="rezkhaleghi" /> </p>
