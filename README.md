@@ -32,8 +32,8 @@
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=TypeScript" alt="TypeScript" />
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
   </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />
@@ -46,9 +46,6 @@
   
   <!-- Frameworks & Runtime -->
 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
-  </a>
   <a href="https://actix.rs/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=actix" alt="Actix-Web" />
   </a>
