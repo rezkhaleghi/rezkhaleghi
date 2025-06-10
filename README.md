@@ -26,26 +26,26 @@
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-  </a>
-  <a href="https://webassembly.org/" target="_blank" rel="noreferrer">
+    <a href="https://webassembly.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=wasm" alt="WebAssembly" />
-  </a>
-  
-  <!-- Frameworks & Runtime -->
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+  </a>
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />
+  </a>
+
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
   </a>
+
+  
+  <!-- Frameworks & Runtime -->
+
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
   </a>
