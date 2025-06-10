@@ -2,11 +2,11 @@
   <a href="https://github.com/rezkhaleghi">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+This+is+PocketJack;Welcome+to+my+GitHub!&center=true&width=500&height=50" />
   </a>
-</p><h3 align="center">Software Engineer🦀</h3>
+</p><h3 align="center">Software Engineer🦀 / Musician🎵</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abolfazljazak&label=Profile%20views&color=0e75b6&style=flat" alt="abolfazljazak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezkhaleghi&label=Profile%20views&color=0e75b6&style=flat" alt="rezkhaleghi" /> </p>
 
-Passionate about crafting efficient and scalable solutions through code. I specialize in Python, Django, NestJS, and TypeScript, focusing on building tools that solve real-world challenges with precision and elegance.
+24y.o Software engineer and musician who's been exploring tech for 10+ years before finding my groove with TypeScript and Rust. Started my journey on 2012 bouncing between frontend, networking, and security until I discovered my passion for backend development and system programming 5 years ago. When I'm not crafting APIs, building tools, or diving into blockchain projects, you'll find me making music or contributing to open source communities. Love building cool stuff, solving interesting problems, and always up for collaborating on fun technical challenges.
 
 - 📫 How to reach me **rezaxkhaleghi@gmail.com**
 
