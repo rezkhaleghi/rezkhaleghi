@@ -32,8 +32,8 @@
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=TypeScript" alt="TypeScript" />
   </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />
