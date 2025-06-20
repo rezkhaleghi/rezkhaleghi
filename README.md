@@ -3,9 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+This+is+PocketJack;Welcome+to+my+GitHub!&center=true&width=500&height=50" />
   </a>
 </p>
-<h3 align="center">Software Engineer🦀 / Musician🎵</h3>
+<h2 align="center">Software Engineer🦀 / Musician🎵</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezkhaleghi&label=Profile%20views&color=0e75b6&style=flat" alt="rezkhaleghi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rezkhaleghi&label=Profile%20views&color=0e75b6&style=flat" alt="rezkhaleghi" /> </p>
 
 24y.o Software engineer and musician who's been exploring tech for 10+ years before finding my groove with TypeScript and Rust. Started my journey on 2012 bouncing between frontend, networking, and security until I discovered my passion for backend development and system programming 5 years ago. When I'm not crafting APIs, building tools, or diving into blockchain projects, you'll find me making music or contributing to open source communities. Love building cool stuff, solving interesting problems, and always up for collaborating on fun technical challenges.
 
@@ -20,8 +20,8 @@
   </table>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">Connect with me:</h2>
+<p align="center">
 <a href="https://linkedin.com/in/rezaxkhaleghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abolfazl-jazak-208330292" height="30" width="40" /></a>
 <a href="https://instagram.com/PocketJack1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abolfazljzk" height="30" width="40" /></a>
 <a href="https://youtube.com/@PocketJack1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="PocketJack1" height="30" width="40" /></a>
@@ -29,7 +29,7 @@
   <a href="https://soundcloud.com/pocketjack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="PocketJack" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <!-- Backend & Core Languages -->
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
