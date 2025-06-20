@@ -7,9 +7,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rezkhaleghi&label=Profile%20views&color=0e75b6&style=flat" alt="rezkhaleghi" /> </p>
 
-24y.o Software engineer and musician who's been exploring tech for 10+ years before finding my groove with TypeScript and Rust. Started my journey on 2012 bouncing between frontend, networking, and security until I discovered my passion for backend development and system programming 5 years ago. When I'm not crafting APIs, building tools, or diving into blockchain projects, you'll find me making music or contributing to open source communities. Love building cool stuff, solving interesting problems, and always up for collaborating on fun technical challenges.
+<p align="center"> 
+24y.o Software engineer and musician who's been exploring tech for 10+ years before finding my groove with TypeScript and Rust. Started my journey on 2012 bouncing between frontend, networking, and security until I discovered my passion for backend development and system programming 5 years ago. When I'm not crafting APIs, building tools, or diving into blockchain projects, you'll find me making music or contributing to open source communities. 
+</br> Love building cool stuff, solving interesting problems, and always up for collaborating on fun technical challenges.
 
-- 📧 **rezaxkhaleghi@gmail.com** - 🌐 **https://pocketjack.vercel.app**
+<h3 align="center">Portfolio🌐 : https://pocketjack.vercel.app</h3>
+
+</p>
+
 
 <div align="center">
   <table>
@@ -19,14 +24,26 @@
     </tr>
   </table>
 </div>
-
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://linkedin.com/in/rezaxkhaleghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abolfazl-jazak-208330292" height="30" width="40" /></a>
-<a href="https://instagram.com/PocketJack1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abolfazljzk" height="30" width="40" /></a>
-<a href="https://youtube.com/@PocketJack1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="PocketJack1" height="30" width="40" /></a>
-<a href="https://medium.com/@pocketjack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rezaxkhaleghi" height="30" width="40" /></a>
-  <a href="https://soundcloud.com/pocketjack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="PocketJack" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rezaxkhaleghi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/PocketJack1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+  <a href="https://youtube.com/@PocketJack1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@pocketjack" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
+  </a>
+  <a href="https://soundcloud.com/pocketjack" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="soundcloud" height="30" width="40" />
+  </a>
+  <a href="mailto:rezaxkhaleghi@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="30" width="40" />
+  </a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
